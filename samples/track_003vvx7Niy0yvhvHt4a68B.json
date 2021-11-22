@@ -1,0 +1,68 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+      "id" : "0C0XlULifJtAgn6ZNCW2eu",
+      "name" : "The Killers",
+      "type" : "artist",
+      "uri" : "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4piJq7R3gjUOxnYs6lDCTg"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4piJq7R3gjUOxnYs6lDCTg",
+    "id" : "4piJq7R3gjUOxnYs6lDCTg",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273ccdddd46119a4ff53eaf1f5d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02ccdddd46119a4ff53eaf1f5d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851ccdddd46119a4ff53eaf1f5d",
+      "width" : 64
+    } ],
+    "name" : "Hot Fuss",
+    "release_date" : "2004",
+    "release_date_precision" : "year",
+    "total_tracks" : 12,
+    "type" : "album",
+    "uri" : "spotify:album:4piJq7R3gjUOxnYs6lDCTg"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu"
+    },
+    "href" : "https://api.spotify.com/v1/artists/0C0XlULifJtAgn6ZNCW2eu",
+    "id" : "0C0XlULifJtAgn6ZNCW2eu",
+    "name" : "The Killers",
+    "type" : "artist",
+    "uri" : "spotify:artist:0C0XlULifJtAgn6ZNCW2eu"
+  } ],
+  "disc_number" : 1,
+  "duration_ms" : 222973,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USIR20400274"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/003vvx7Niy0yvhvHt4a68B"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/003vvx7Niy0yvhvHt4a68B",
+  "id" : "003vvx7Niy0yvhvHt4a68B",
+  "is_local" : false,
+  "is_playable" : true,
+  "name" : "Mr. Brightside",
+  "popularity" : 83,
+  "preview_url" : null,
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:003vvx7Niy0yvhvHt4a68B"
+}

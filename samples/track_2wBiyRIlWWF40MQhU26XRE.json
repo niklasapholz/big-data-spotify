@@ -1,0 +1,77 @@
+{
+  "album" : {
+    "album_type" : "compilation",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of"
+      },
+      "href" : "https://api.spotify.com/v1/artists/0LyfQWJT6nXafLPZqxe9Of",
+      "id" : "0LyfQWJT6nXafLPZqxe9Of",
+      "name" : "Various Artists",
+      "type" : "artist",
+      "uri" : "spotify:artist:0LyfQWJT6nXafLPZqxe9Of"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/00bPfQP0g2H8zJ09n98Ahn"
+    },
+    "href" : "https://api.spotify.com/v1/albums/00bPfQP0g2H8zJ09n98Ahn",
+    "id" : "00bPfQP0g2H8zJ09n98Ahn",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2738b9437fb41177847fa24abd9",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e028b9437fb41177847fa24abd9",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048518b9437fb41177847fa24abd9",
+      "width" : 64
+    } ],
+    "name" : "2000's RnB",
+    "release_date" : "2019-10-18",
+    "release_date_precision" : "day",
+    "total_tracks" : 31,
+    "type" : "album",
+    "uri" : "spotify:album:00bPfQP0g2H8zJ09n98Ahn"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3q7HBObVc0L8jNeTe5Gofh",
+    "id" : "3q7HBObVc0L8jNeTe5Gofh",
+    "name" : "50 Cent",
+    "type" : "artist",
+    "uri" : "spotify:artist:3q7HBObVc0L8jNeTe5Gofh"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5YBSzuCs7WaFKNr7Bky0Uf"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5YBSzuCs7WaFKNr7Bky0Uf",
+    "id" : "5YBSzuCs7WaFKNr7Bky0Uf",
+    "name" : "Olivia",
+    "type" : "artist",
+    "uri" : "spotify:artist:5YBSzuCs7WaFKNr7Bky0Uf"
+  } ],
+  "disc_number" : 1,
+  "duration_ms" : 207106,
+  "explicit" : true,
+  "external_ids" : {
+    "isrc" : "USIR10500072"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2wBiyRIlWWF40MQhU26XRE"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2wBiyRIlWWF40MQhU26XRE",
+  "id" : "2wBiyRIlWWF40MQhU26XRE",
+  "is_local" : false,
+  "is_playable" : true,
+  "name" : "Candy Shop",
+  "popularity" : 24,
+  "preview_url" : null,
+  "track_number" : 3,
+  "type" : "track",
+  "uri" : "spotify:track:2wBiyRIlWWF40MQhU26XRE"
+}

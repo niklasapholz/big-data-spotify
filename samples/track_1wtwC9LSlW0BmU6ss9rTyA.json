@@ -1,0 +1,77 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/5fL4LVKRLKkyN1Xalpt0xx"
+      },
+      "href" : "https://api.spotify.com/v1/artists/5fL4LVKRLKkyN1Xalpt0xx",
+      "id" : "5fL4LVKRLKkyN1Xalpt0xx",
+      "name" : "Pierre Monteux",
+      "type" : "artist",
+      "uri" : "spotify:artist:5fL4LVKRLKkyN1Xalpt0xx"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/0VK0HAkTaIjjqlt41IxJFr"
+    },
+    "href" : "https://api.spotify.com/v1/albums/0VK0HAkTaIjjqlt41IxJFr",
+    "id" : "0VK0HAkTaIjjqlt41IxJFr",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27332d94589b5582c253bf5cc7c",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0232d94589b5582c253bf5cc7c",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485132d94589b5582c253bf5cc7c",
+      "width" : 64
+    } ],
+    "name" : "Milestones of a Legendy Conductor - Pierre Monteux, Vol. 2",
+    "release_date" : "2019-12-06",
+    "release_date_precision" : "day",
+    "total_tracks" : 4,
+    "type" : "album",
+    "uri" : "spotify:album:0VK0HAkTaIjjqlt41IxJFr"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5wTAi7QkpP6kp8a54lmTOq",
+    "id" : "5wTAi7QkpP6kp8a54lmTOq",
+    "name" : "Johannes Brahms",
+    "type" : "artist",
+    "uri" : "spotify:artist:5wTAi7QkpP6kp8a54lmTOq"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/5fL4LVKRLKkyN1Xalpt0xx"
+    },
+    "href" : "https://api.spotify.com/v1/artists/5fL4LVKRLKkyN1Xalpt0xx",
+    "id" : "5fL4LVKRLKkyN1Xalpt0xx",
+    "name" : "Pierre Monteux",
+    "type" : "artist",
+    "uri" : "spotify:artist:5fL4LVKRLKkyN1Xalpt0xx"
+  } ],
+  "disc_number" : 1,
+  "duration_ms" : 851826,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEU241705779"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1wtwC9LSlW0BmU6ss9rTyA"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1wtwC9LSlW0BmU6ss9rTyA",
+  "id" : "1wtwC9LSlW0BmU6ss9rTyA",
+  "is_local" : false,
+  "is_playable" : true,
+  "name" : "Klavierkonzert Nr. 1 d-Moll op. 15: II. Adagio",
+  "popularity" : 0,
+  "preview_url" : "https://p.scdn.co/mp3-preview/a5ecc120543604d8b091e724567fe8643f2a2b87?cid=3d3bc2049abb4c0595a222258000d143",
+  "track_number" : 2,
+  "type" : "track",
+  "uri" : "spotify:track:1wtwC9LSlW0BmU6ss9rTyA"
+}

@@ -1,0 +1,153 @@
+[{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4x4nSliAvh7RM7dVxbs9aP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4x4nSliAvh7RM7dVxbs9aP",
+      "id" : "4x4nSliAvh7RM7dVxbs9aP",
+      "name" : "D´Hundskrippln",
+      "type" : "artist",
+      "uri" : "spotify:artist:4x4nSliAvh7RM7dVxbs9aP"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/243xDmhH3enXhZMwFvc6xT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/243xDmhH3enXhZMwFvc6xT",
+    "id" : "243xDmhH3enXhZMwFvc6xT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273d1be6f3a2d6ac3b093ce614d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02d1be6f3a2d6ac3b093ce614d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851d1be6f3a2d6ac3b093ce614d",
+      "width" : 64
+    } ],
+    "name" : "Gloana Bauer (Teenage Dirtbag)",
+    "release_date" : "2016-07-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:243xDmhH3enXhZMwFvc6xT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4x4nSliAvh7RM7dVxbs9aP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4x4nSliAvh7RM7dVxbs9aP",
+    "id" : "4x4nSliAvh7RM7dVxbs9aP",
+    "name" : "D´Hundskrippln",
+    "type" : "artist",
+    "uri" : "spotify:artist:4x4nSliAvh7RM7dVxbs9aP"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/79J0nsmaJfS2cb4GjYmfFA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/79J0nsmaJfS2cb4GjYmfFA",
+    "id" : "79J0nsmaJfS2cb4GjYmfFA",
+    "name" : "Riegler Hias",
+    "type" : "artist",
+    "uri" : "spotify:artist:79J0nsmaJfS2cb4GjYmfFA"
+  } ],
+  "disc_number" : 1,
+  "duration_ms" : 226852,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATSB81600002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2lEcSduKEXEK5KJ9hJzlCz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2lEcSduKEXEK5KJ9hJzlCz",
+  "id" : "2lEcSduKEXEK5KJ9hJzlCz",
+  "is_local" : false,
+  "is_playable" : true,
+  "name" : "Gloana Bauer - Teenage Dirtbag",
+  "popularity" : 41,
+  "preview_url" : null,
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2lEcSduKEXEK5KJ9hJzlCz"
+},{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/4x4nSliAvh7RM7dVxbs9aP"
+      },
+      "href" : "https://api.spotify.com/v1/artists/4x4nSliAvh7RM7dVxbs9aP",
+      "id" : "4x4nSliAvh7RM7dVxbs9aP",
+      "name" : "D´Hundskrippln",
+      "type" : "artist",
+      "uri" : "spotify:artist:4x4nSliAvh7RM7dVxbs9aP"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/243xDmhH3enXhZMwFvc6xT"
+    },
+    "href" : "https://api.spotify.com/v1/albums/243xDmhH3enXhZMwFvc6xT",
+    "id" : "243xDmhH3enXhZMwFvc6xT",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273d1be6f3a2d6ac3b093ce614d",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02d1be6f3a2d6ac3b093ce614d",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851d1be6f3a2d6ac3b093ce614d",
+      "width" : 64
+    } ],
+    "name" : "Gloana Bauer (Teenage Dirtbag)",
+    "release_date" : "2016-07-01",
+    "release_date_precision" : "day",
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:243xDmhH3enXhZMwFvc6xT"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/4x4nSliAvh7RM7dVxbs9aP"
+    },
+    "href" : "https://api.spotify.com/v1/artists/4x4nSliAvh7RM7dVxbs9aP",
+    "id" : "4x4nSliAvh7RM7dVxbs9aP",
+    "name" : "D´Hundskrippln",
+    "type" : "artist",
+    "uri" : "spotify:artist:4x4nSliAvh7RM7dVxbs9aP"
+  }, {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/79J0nsmaJfS2cb4GjYmfFA"
+    },
+    "href" : "https://api.spotify.com/v1/artists/79J0nsmaJfS2cb4GjYmfFA",
+    "id" : "79J0nsmaJfS2cb4GjYmfFA",
+    "name" : "Riegler Hias",
+    "type" : "artist",
+    "uri" : "spotify:artist:79J0nsmaJfS2cb4GjYmfFA"
+  } ],
+  "disc_number" : 1,
+  "duration_ms" : 226852,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "ATSB81600002"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/2lEcSduKEXEK5KJ9hJzlCz"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/2lEcSduKEXEK5KJ9hJzlCz",
+  "id" : "2lEcSduKEXEK5KJ9hJzlCz",
+  "is_local" : false,
+  "is_playable" : true,
+  "name" : "Gloana Bauer - Teenage Dirtbag",
+  "popularity" : 41,
+  "preview_url" : null,
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:2lEcSduKEXEK5KJ9hJzlCz"
+}]

@@ -1,0 +1,7 @@
+docker volume create postgres_data
+
+docker container run -d --name database --net bigdatanet -e POSTGRES_PASSWORD=supersicher -v postgres_data:/var/lib/postgresql/data postgres:14.0
+
+# docker run -p 80:80 -e PGADMIN_DEFAULT_EMAIL=user@domain.com -e PGADMIN_DEFAULT_PASSWORD=supersicher --net bigdatanet -d dpage/pgadmin4
+
+docker run -p 80:3000 -e DBHOST=database DBPORT=5432 --net bigdatanet -d niklasapholz/big-data-frontend:latest

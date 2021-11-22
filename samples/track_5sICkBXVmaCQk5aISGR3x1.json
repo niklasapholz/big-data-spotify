@@ -1,0 +1,68 @@
+{
+  "album" : {
+    "album_type" : "album",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+      },
+      "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+      "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+      "name" : "Metallica",
+      "type" : "artist",
+      "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/2Kh43m04B1UkVcpcRa1Zug"
+    },
+    "href" : "https://api.spotify.com/v1/albums/2Kh43m04B1UkVcpcRa1Zug",
+    "id" : "2Kh43m04B1UkVcpcRa1Zug",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b273cf84c5b276431b473e924802",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e02cf84c5b276431b473e924802",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d00004851cf84c5b276431b473e924802",
+      "width" : 64
+    } ],
+    "name" : "Metallica",
+    "release_date" : "1991-08-12",
+    "release_date_precision" : "day",
+    "total_tracks" : 12,
+    "type" : "album",
+    "uri" : "spotify:album:2Kh43m04B1UkVcpcRa1Zug"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+    },
+    "href" : "https://api.spotify.com/v1/artists/2ye2Wgw4gimLv2eAKyk1NB",
+    "id" : "2ye2Wgw4gimLv2eAKyk1NB",
+    "name" : "Metallica",
+    "type" : "artist",
+    "uri" : "spotify:artist:2ye2Wgw4gimLv2eAKyk1NB"
+  } ],
+  "disc_number" : 1,
+  "duration_ms" : 331266,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "GBF089190013"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/5sICkBXVmaCQk5aISGR3x1"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/5sICkBXVmaCQk5aISGR3x1",
+  "id" : "5sICkBXVmaCQk5aISGR3x1",
+  "is_local" : false,
+  "is_playable" : true,
+  "name" : "Enter Sandman",
+  "popularity" : 79,
+  "preview_url" : null,
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:5sICkBXVmaCQk5aISGR3x1"
+}

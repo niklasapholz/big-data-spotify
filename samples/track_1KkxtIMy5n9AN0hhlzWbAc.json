@@ -1,0 +1,68 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+      },
+      "href" : "https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa",
+      "id" : "3DiDSECUqqY1AuBP8qtaIa",
+      "name" : "Alicia Keys",
+      "type" : "artist",
+      "uri" : "spotify:artist:3DiDSECUqqY1AuBP8qtaIa"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/44zD5iw8kn2Xhn1QDlLnGu"
+    },
+    "href" : "https://api.spotify.com/v1/albums/44zD5iw8kn2Xhn1QDlLnGu",
+    "id" : "44zD5iw8kn2Xhn1QDlLnGu",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b2734c5e8e787caa936b7a378860",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e024c5e8e787caa936b7a378860",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d000048514c5e8e787caa936b7a378860",
+      "width" : 64
+    } ],
+    "name" : "Best Of Me",
+    "release_date" : "2021-10-29",
+    "release_date_precision" : "day",
+    "total_tracks" : 2,
+    "type" : "album",
+    "uri" : "spotify:album:44zD5iw8kn2Xhn1QDlLnGu"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa"
+    },
+    "href" : "https://api.spotify.com/v1/artists/3DiDSECUqqY1AuBP8qtaIa",
+    "id" : "3DiDSECUqqY1AuBP8qtaIa",
+    "name" : "Alicia Keys",
+    "type" : "artist",
+    "uri" : "spotify:artist:3DiDSECUqqY1AuBP8qtaIa"
+  } ],
+  "disc_number" : 1,
+  "duration_ms" : 238999,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "USRC12102786"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/1KkxtIMy5n9AN0hhlzWbAc"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/1KkxtIMy5n9AN0hhlzWbAc",
+  "id" : "1KkxtIMy5n9AN0hhlzWbAc",
+  "is_local" : false,
+  "is_playable" : true,
+  "name" : "Best Of Me (Originals)",
+  "popularity" : 65,
+  "preview_url" : "https://p.scdn.co/mp3-preview/845f1a299f565f8e52bf534d4e2384a4a2c784ce?cid=3d3bc2049abb4c0595a222258000d143",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:1KkxtIMy5n9AN0hhlzWbAc"
+}

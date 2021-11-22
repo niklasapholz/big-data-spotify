@@ -1,0 +1,33 @@
+{
+  "name": "frontend",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@emotion/cache": "latest",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@mui/icons-material": "^5.1.1",
+    "@mui/material": "latest",
+    "@mui/x-data-grid": "^5.0.1",
+    "clsx": "latest",
+    "next": "latest",
+    "pg": "^8.7.1",
+    "react": "latest",
+    "react-dom": "latest",
+    "ts-postgres": "^1.2.0"
+  },
+  "devDependencies": {
+    "@types/node": "latest",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "typescript": "latest",
+    "eslint": "7.32.0",
+    "eslint-config-next": "12.0.4"
+  }
+}

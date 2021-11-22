@@ -1,0 +1,68 @@
+{
+  "album" : {
+    "album_type" : "single",
+    "artists" : [ {
+      "external_urls" : {
+        "spotify" : "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+      },
+      "href" : "https://api.spotify.com/v1/artists/25sJFKMqDENdsTF7zRXoif",
+      "id" : "25sJFKMqDENdsTF7zRXoif",
+      "name" : "Klaas",
+      "type" : "artist",
+      "uri" : "spotify:artist:25sJFKMqDENdsTF7zRXoif"
+    } ],
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/album/4WayvrY6aOvXxq0hiSlOBR"
+    },
+    "href" : "https://api.spotify.com/v1/albums/4WayvrY6aOvXxq0hiSlOBR",
+    "id" : "4WayvrY6aOvXxq0hiSlOBR",
+    "images" : [ {
+      "height" : 640,
+      "url" : "https://i.scdn.co/image/ab67616d0000b27309aed8790f75257445676195",
+      "width" : 640
+    }, {
+      "height" : 300,
+      "url" : "https://i.scdn.co/image/ab67616d00001e0209aed8790f75257445676195",
+      "width" : 300
+    }, {
+      "height" : 64,
+      "url" : "https://i.scdn.co/image/ab67616d0000485109aed8790f75257445676195",
+      "width" : 64
+    } ],
+    "name" : "Second Life",
+    "release_date" : "2021-09-17",
+    "release_date_precision" : "day",
+    "total_tracks" : 1,
+    "type" : "album",
+    "uri" : "spotify:album:4WayvrY6aOvXxq0hiSlOBR"
+  },
+  "artists" : [ {
+    "external_urls" : {
+      "spotify" : "https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif"
+    },
+    "href" : "https://api.spotify.com/v1/artists/25sJFKMqDENdsTF7zRXoif",
+    "id" : "25sJFKMqDENdsTF7zRXoif",
+    "name" : "Klaas",
+    "type" : "artist",
+    "uri" : "spotify:artist:25sJFKMqDENdsTF7zRXoif"
+  } ],
+  "disc_number" : 1,
+  "duration_ms" : 174843,
+  "explicit" : false,
+  "external_ids" : {
+    "isrc" : "DEMA61903910"
+  },
+  "external_urls" : {
+    "spotify" : "https://open.spotify.com/track/02R36WcRcPSbMEhTutnAlt"
+  },
+  "href" : "https://api.spotify.com/v1/tracks/02R36WcRcPSbMEhTutnAlt",
+  "id" : "02R36WcRcPSbMEhTutnAlt",
+  "is_local" : false,
+  "is_playable" : true,
+  "name" : "Second Life",
+  "popularity" : 62,
+  "preview_url" : "https://p.scdn.co/mp3-preview/90de0f06eb4da789e1afce8bb330312430885fd0?cid=3d3bc2049abb4c0595a222258000d143",
+  "track_number" : 1,
+  "type" : "track",
+  "uri" : "spotify:track:02R36WcRcPSbMEhTutnAlt"
+}

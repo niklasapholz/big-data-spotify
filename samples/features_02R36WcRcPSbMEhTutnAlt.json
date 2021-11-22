@@ -1,0 +1,20 @@
+{
+  "danceability" : 0.687,
+  "energy" : 0.764,
+  "key" : 7,
+  "loudness" : -7.025,
+  "mode" : 0,
+  "speechiness" : 0.0450,
+  "acousticness" : 0.145,
+  "instrumentalness" : 0.000787,
+  "liveness" : 0.0654,
+  "valence" : 0.160,
+  "tempo" : 128.052,
+  "type" : "audio_features",
+  "id" : "02R36WcRcPSbMEhTutnAlt",
+  "uri" : "spotify:track:02R36WcRcPSbMEhTutnAlt",
+  "track_href" : "https://api.spotify.com/v1/tracks/02R36WcRcPSbMEhTutnAlt",
+  "analysis_url" : "https://api.spotify.com/v1/audio-analysis/02R36WcRcPSbMEhTutnAlt",
+  "duration_ms" : 174844,
+  "time_signature" : 4
+}
