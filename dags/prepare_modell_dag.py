@@ -38,7 +38,7 @@ args = {
 }
 
 dag = DAG('Set_up_Classifier', default_args=args, description='Get playlists to train classifier',
-        start_date=datetime(2021, 11, 11), max_active_runs=1)
+        start_date=datetime(2021, 11, 11), schedule_interval=None, max_active_runs=1)
 
 
 create_local_import_dir = CreateDirectoryOperator(

@@ -23,8 +23,10 @@ from airflow.operators.spotify_operations import LoadPlaylistsOperator, GetPlayl
 client_id=""
 client_secret=""
 # https://open.spotify.com/playlist/37i9dQZF1DWUW2bvSkjcJ6?si=9781ee83416942da
+# https://open.spotify.com/playlist/37i9dQZEVXbNG2KDcFcKOF?si=4a0e02ba6f42496f
 playlists={
-  'NewMusicFriday': ['37i9dQZF1DWUW2bvSkjcJ6']
+  'NewMusicFriday': ['37i9dQZF1DWUW2bvSkjcJ6'],
+  'Charts': ['37i9dQZEVXbNG2KDcFcKOF']
 }
 
 args = {
@@ -32,7 +34,7 @@ args = {
 }
 
 dag = DAG('Categorize_new_music_friday', default_args=args, description='Categorizes all tracks in the new music friday playlist',
-        start_date=datetime(2021, 11, 11), max_active_runs=1)
+        start_date=datetime(2021, 11, 11), schedule_interval='0 12 * * *', max_active_runs=1)
 
 
 create_local_playlist_dir = CreateDirectoryOperator(

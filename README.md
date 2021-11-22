@@ -55,3 +55,6 @@ Hierbei ist darauf zu achten, dass der `Set_up_Classifier`-DAG zuerst laufen mus
 
 Sind beide DAGs erfolgreich durchgelaufen, können die Ergebnisse unter Port 80 eingesehen werden.
 
+## Trouble-Shooting
+Sollten einige Operatoren nicht direkt erkannt werden, muss der Container neugestartet werden.
+
