@@ -2,7 +2,7 @@ from airflow.plugins_manager import AirflowPlugin
 from operators.hdfs_put_file_operator import *
 from operators.hdfs_get_file_operator import *
 from operators.hdfs_mkdir_file_operator import *
-from operators.HdfsCopyFolderOperator import *
+from operators.HdfsCopyFolderOperator import HdfsCopyFolderOperator
 from hooks.hdfs_hook import *
 
 class HdfsPlugin(AirflowPlugin):
