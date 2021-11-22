@@ -34,7 +34,7 @@ args = {
 }
 
 dag = DAG('Categorize_new_music_friday', default_args=args, description='Categorizes all tracks in the new music friday playlist',
-        start_date=datetime(2021, 11, 11), schedule_interval='0 12 * * *', max_active_runs=1)
+        start_date=datetime(2021, 11, 11), schedule_interval='0 12 * * *', catchup=False, max_active_runs=1)
 
 
 create_local_playlist_dir = CreateDirectoryOperator(
