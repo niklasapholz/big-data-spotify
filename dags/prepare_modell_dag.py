@@ -22,13 +22,14 @@ from airflow.operators.spotify_operations import LoadPlaylistsOperator, GetPlayl
 
 client_id=""
 client_secret=""
+# >= 150 Tracks for each category
 playlists={
     'Rock': ['37i9dQZF1DWXRqgorJj26U'],
-    'Metal': ['37i9dQZF1DWTcqUzwhNmKv'],
-    'Vocal': ['37i9dQZF1DX2kt7dB63bU1'],
-    'Electro': ['37i9dQZF1DX8AliSIsGeKd'],
-    'HipHop': ['37i9dQZF1DX0XUsuxWHRQd'],
-    'Soul': ['37i9dQZF1DX8xV1CEmgc1h'],
+    'Metal': ['37i9dQZF1DWTcqUzwhNmKv', '37i9dQZF1DX2LTcinqsO68'],
+    'Pop': ['37i9dQZF1DXbKGrOUA30KN', '37i9dQZF1DX8ttEdg9VJHO', '37i9dQZF1DX1WhyP6stXXl'],
+    'Electro': ['37i9dQZF1DX8AliSIsGeKd', '37i9dQZF1DX7ZUug1ANKRP', '37i9dQZF1DX6J5NfMJS675'],
+    'HipHop': ['37i9dQZF1DX0XUsuxWHRQd', '37i9dQZF1DX36edUJpD76c', '37i9dQZF1DWT5MrZnPU1zD'],
+    'Soul': ['37i9dQZF1DX8xV1CEmgc1h', '37i9dQZF1DXbcgQ8d7s0A0', '37i9dQZF1DWTx0xog3gN3q'],
     'Classic': ['37i9dQZF1DWWEJlAGA9gs0']
 }
 
