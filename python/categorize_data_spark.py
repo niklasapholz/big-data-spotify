@@ -17,7 +17,7 @@ def get_args():
 
 if __name__ == '__main__':
   """
-  Using pyspark to get uncategorized data and categorize
+  Using pyspark to get uncategorized data and categorize it with the classifier
   """
   args = get_args()
 

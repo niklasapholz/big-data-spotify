@@ -17,7 +17,7 @@ def get_args():
 
 if __name__ == '__main__':
   """
-  Upload finalized data to postgresql
+  Load end-user-data and train classifier
   """
   args = get_args()
 

@@ -17,7 +17,7 @@ def get_args():
 
 if __name__ == '__main__':
   """
-  Using pyspark to write to hdfs, since its hard to do with normal python
+  Drop columns with useless data and add category
   """
   args = get_args()
 

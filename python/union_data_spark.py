@@ -20,7 +20,7 @@ def get_args():
 
 if __name__ == '__main__':
   """
-  Using pyspark to get finalized data and create a classifier
+  Union track-data and audio-features and remove duplicates
   """
   args = get_args()
 

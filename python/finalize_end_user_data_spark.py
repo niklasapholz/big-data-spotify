@@ -15,7 +15,7 @@ def get_args():
 
 if __name__ == '__main__':
   """
-  Using pyspark to get finalized data
+  Finalize data / drop useless columns
   """
   args = get_args()
 

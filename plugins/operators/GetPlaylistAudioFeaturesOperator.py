@@ -44,8 +44,7 @@ class GetPlaylistAudioFeaturesOperator(BaseOperator):
       if len(track_ids) == 0:
         raise ValueError('GetPlaylistAudioFeaturesOperator - The list of track-ids is empty!')
 
-      token = SpotifyClientCredentials(client_id="3d3bc2049abb4c0595a222258000d143",
-                          client_secret="95b9f45a91a5465baae21b72c6039086").get_access_token(as_dict=False)
+      token = SpotifyClientCredentials(client_id=self.client_id,client_secret=self.client_secret).get_access_token(as_dict=False)
       audio_features = []
       missing_tracks = len(track_ids)
       offset = 0
